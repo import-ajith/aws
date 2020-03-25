@@ -1,21 +1,11 @@
 # aws
 This is a practice section of aws.Here I am covering concept of 
+IAM,AWS EC2,S3,ELB,ASG,RDS,ELASTIC CACHE,AWS CLI,ELASTIC BEANSTALK,AWS CICD,AWS CLOUD FORMATION
 
-  1.IAM
-  2.AWS EC2
-  3.S3
-  4.ELB,ASG
-  5.RDS,ELASTIC CACHE
-  6.AWS CLI
-  7.ELASTIC BEANSTALK
-  8.AWS CICD
-  9.AWS CLOUD FORMATION
-  
-  # Author
+# Author
   Ajithlal K
-  
-  # Thanks
-  Practiced from AWS Certified Developer Course Stephane Mark
+# Thanks
+ Stephane Mark
   
 
   
