@@ -1,11 +1,10 @@
 # aws
-This is a practice section of aws.Here I am covering concept of 
-IAM,AWS EC2,S3,ELB,ASG,RDS,ELASTIC CACHE,AWS CLI,ELASTIC BEANSTALK,AWS CICD,AWS CLOUD FORMATION
+This is my practice section of aws.
+IAM,AWS EC2,S3,Elastic Load balancer,RDS,Elastic cache,AWS Cli,Elastic beanstalk,AWS CICD,AWS Cloud formation
 
 # Author
   Ajithlal K
-# Thanks
- Stephane Mark
+
   
 
   
