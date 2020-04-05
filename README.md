@@ -5,6 +5,10 @@ IAM,AWS EC2,S3,Elastic Load balancer,RDS,Elastic cache,AWS Cli,Elastic beanstalk
 # Author
   Ajithlal K
 
+# Thanks
+  Stephane Maarek
+  
+
   
 
   
